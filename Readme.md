@@ -21,7 +21,7 @@ b) From the command window of Matlab, call the function in the following manner
 
 Contribute
 ----------
-Source Code: https://github.com/tvashok/count-objects-in-an-image-with-noise/
+Source Code: https://github.com/tvashok/count-objects/
 
 
 This project is licensed under the terms of the MIT license. See License.txt for details
